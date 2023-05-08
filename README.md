@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedautomobile-solution
+<br>
+Design a class named Automobile that holds the vehicles identification number, make, model, and color of an Automobile. Include methods to set the values for each data field and include a method that displays all the values for each field. Create the class diagram and write the pseudocode that defines the class.Please use visual logic and profile .vls file and also meta file of the program
